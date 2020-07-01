@@ -29,7 +29,7 @@ l.setLng(33.427362);
 p.setLocation(l);
 
 return p;
-system.out.println("gitTest");
+
 	}
 	
 	public String deletePlacePayload(String place_Id)
